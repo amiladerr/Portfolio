@@ -1,0 +1,5 @@
+ssst.edu.ba.Student A, CS, 2
+ssst.edu.ba.Student B, CS, 2
+ssst.edu.ba.Student C, MED, 2
+ssst.edu.ba.Student D, MED, 1
+ssst.edu.ba.Student E, CS, 2

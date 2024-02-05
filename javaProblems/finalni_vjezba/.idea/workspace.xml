@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b9bb6e6-c351-41bd-92f5-789b00982ae2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gHGNZqdOl3Srb5d5SJNVifdWQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vjezba2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ssst.edu.ba.Main" />
+      <module name="predfinalni" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b9bb6e6-c351-41bd-92f5-789b00982ae2" name="Default Changelist" comment="" />
+      <created>1597764064704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597764064704</updated>
+      <workItem from="1597764068129" duration="5351000" />
+      <workItem from="1597775611888" duration="4766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1597764445662">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1597764445662" />
+    <state x="518" y="345" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597764345845">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="518" y="345" width="404" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.920@0.0.1440.920" timestamp="1597764345845" />
+    <state x="501" y="202" key="FileChooserDialogImpl" timestamp="1597819578243">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="202" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1597819578243" />
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1597872543793">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1597872543793" />
+    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1597872543793">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1597872543793" />
+    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1597872543792">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1597872543792" />
+    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1597872543793">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1597872543793" />
+    <state x="171" y="81" key="new project wizard" timestamp="1597776025303">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="171" y="81" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1597776025303" />
+    <state x="377" y="211" key="run.anything.popup" timestamp="1597766852872">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1597766852872" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1597769406585">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1597769406585" />
+  </component>
+</project>

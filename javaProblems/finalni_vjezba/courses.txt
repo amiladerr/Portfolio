@@ -1,0 +1,7 @@
+Programming, 6, CS, 1
+Operating Systems, 3, CS, 1
+Algorithms, 5, CS, 2
+Graphics, 4, CS, 3
+Introduction to anatomy, 6, MED, 1
+Various anomalies, 6, MED, 1
+Ortopedy, 3, MED, 2

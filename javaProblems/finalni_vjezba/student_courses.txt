@@ -1,0 +1,14 @@
+ssst.edu.ba.Student A, Programming, 23
+ssst.edu.ba.Student A, Operating Systems, 78
+ssst.edu.ba.Student D, Algorithms, 92
+ssst.edu.ba.Student A, Graphics, 67
+ssst.edu.ba.Student C, Introduction to anatomy, 56
+ssst.edu.ba.Student D, Various anomalies, 76
+ssst.edu.ba.Student A, Ortopedy, 63
+ssst.edu.ba.Student B, Programming, 23
+ssst.edu.ba.Student B, Operating Systems, 23
+ssst.edu.ba.Student E, Algorithms, 74
+ssst.edu.ba.Student E, Graphics, 98
+ssst.edu.ba.Student B, Introduction to anatomy, 100
+ssst.edu.ba.Student B, Various anomalies, 45
+ssst.edu.ba.Student B, Ortopedy, 67

@@ -1,0 +1,6 @@
+﻿Undergraduate thesis 
+A Day in the Life: An Educational Simulation in Virtual Reality
+Modern education is continuously exploring innovative approaches to enhance learning experiences, and virtual reality (VR) has emerged as a promising technology in this endeavor. Within this thesis the player takes on the role of a cashier at a coffee shop and his objective is to successfully take an order and fulfill it. The cashier’s interaction with the customer can result in multiple outcomes, an order of two items or an individual order of either a coffee or a croissant.
+
+
+This is a really good way to teach people how to interact with each other in a hospitable environment and how to treat each other in the catering world. The element that makes this thesis so unique is the implementation of next generation technology which is Virtual Reality.
